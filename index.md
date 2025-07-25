@@ -14,7 +14,7 @@ Let that sink in for a second. The key idea behind Ramsey Theory is that If you 
 
 Moving on, the Ramsey function is denoted by \\(R(a,b)\\) where any 2-coloring of a complete graph guarantees a complete subgraph of size \\(a\\) of one color (blue) **OR** a complete subgraph of size \\(b\\) of the other color (red).
 
-Let's take an example: the thought simulation I said in the beginning. This is a famous example of \\(R(3,3)\\). Through case-work (pigeonhole), we get that **6** people (node-graph) are required to gurantee a subgraph of size 3 of red or blue (3 mutual strangers or friends). Here is sample shown below: ![K6]([https://www.coursehero.com/qa/attachment/48438586/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECnUl9KXWtTnCiWjeJVfSpZ6ykvzOLROmKQ&s))
+Let's take an example: the thought simulation I said in the beginning. This is a famous example of \\(R(3,3)\\). Through case-work (pigeonhole), we get that **6** people (node-graph) are required to gurantee a subgraph of size 3 of red or blue (3 mutual strangers or friends). To prove that it isn't **5**, here is a coloring of a complete set of 5 nodes that does not have complete subgraph of size 3: ![K5](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/RamseyTheory_K5_no_mono_K3.svg/1024px-RamseyTheory_K5_no_mono_K3.svg.png)
 
 An extended explanation of Ramsey Theory by Paul Erdos (former leading Ramsey Theorist) can be found here: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WgjCf3kC5EU?si=ECtxrcuTHuSddmV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
