@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ian Kim"
   avatar : "/assets/bio-photo.jpg"
-  bio    : "I'm 17 years old and I live in Bethesda, Maryland. I plan on majoring in applied math and quantum computing and physics (if those becomes an offical fields). I hope you find my Mini-Project interesting. "
+  bio    : "I'm 17 years old and I live in Bethesda, Maryland. I plan on majoring in applied math and quantum computing and physics (if those become offical fields). I hope you find my Mini-Project interesting. "
   links:
     - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
