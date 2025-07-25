@@ -27,6 +27,3 @@ Lets get to the quantum side of the project. We were taught the basics of Quantu
 Next, the best part of the project is here: the comparison between classical and quantum methods. As said, the goal here isn't trying to make quantum "beat" classical. We just show how one might model the problem quantumly. Any advances on how quantum can be faster is definitely beyond the scope of my project and may need connection with professional professors.
 
 There is a rising number of papers and research done on how Ramsey Theory may help Quantum computing. I find that this paper will do the converse. If I need to explain and utilize qubits, superposition, gates and get technical with the linear algebra, I will be ready as that knowledge was covered in the program.
-
-To understand how the polar form is derived, check out this video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=XLJKBa_SXol_bQ_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
