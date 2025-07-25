@@ -19,6 +19,7 @@ Let's take an example: the thought simulation I said in the beginning. This is a
 An extended explanation of Ramsey Theory by Paul Erdos (former leading Ramsey Theorist) can be found here: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WgjCf3kC5EU?si=ECtxrcuTHuSddmV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 Though this will be in the paper I will be making for MathQuantum in the future, I will show classical computation approaches (brute-force, SAT solving, symmetry reduction).
 
 Lets get to the quantum side of the project. We were taught the basics of Quantum Computing and also an important key fact: Not all problems are faster solved with quantum computation. This is something I will mention in my paper. Based on intuition, I think Quantum computers **will** be faster. We will see though. Knowing the types of quantum optimization approaches (Grover's, annealing) using tools such as Qiskit (as we learned in the program's Colab Hands-on) which I can explore further as they weren't toucehd as much in the program can be useful for my research.
