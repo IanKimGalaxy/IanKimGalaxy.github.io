@@ -22,7 +22,7 @@ An extended explanation of Ramsey Theory by Paul Erdos (former leading Ramsey Th
 
 Though this will be in the paper I will be making for MathQuantum in the future, I will show classical computation approaches (brute-force, SAT solving, symmetry reduction).
 
-Lets get to the quantum side of the project. We were taught the basics of Quantum Computing and also an important key fact: Not all problems are faster solved with quantum computation. This is something I will mention in my paper. Based on intuition, I think Quantum computers **will** be faster. We will see though. Knowing the types of quantum optimization approaches (Grover's, annealing) using tools such as Qiskit (as we learned in the program's Colab Hands-on) which I can explore further as they weren't toucehd as much in the program can be useful for my research.
+Lets get to the quantum side of the project. We were taught the basics of Quantum Computing and also an important key fact: Not all problems are faster solved with quantum computation. This is something I will mention in my paper. Based on intuition, I think Quantum computers **will** be faster. We will see though. Knowing the types of quantum optimization approaches (Grover's, annealing) using tools such as Qiskit (as we learned in the program's Colab Hands-on) which I can explore further as they weren't touched as much in the program can be useful for my research.
 
 Next, the best part of the project is here: the comparison between classical and quantum methods. As said, the goal here isn't trying to make quantum "beat" classical. We just show how one might model the problem quantumly. Any advances on how quantum can be faster is definitely beyond the scope of my project and may need connection with professional professors.
 
