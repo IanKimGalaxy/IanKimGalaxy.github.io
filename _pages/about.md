@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+"The MathQuantum RTG (Research Training Group) is a community of faculty, graduate students, postdocs, and undergraduate students using advanced mathematical tools to solve Quantum Information Science research problems. We're funded by NSF award DMS-2231533." - MathQuantum
+The Mini-Project is a culminating activity that brings together everything I’ve learned during the MathQuantum program in a creative way. As an aspiring Ramsey Theorist, what better option is there than writing up about Ramsey Theory and Quantum? 
+We aren't expected to finish the entire project by the end of the Program, though I will take the initative to continue to research and collaborate to have a write up and presentation by a future MathQuantum Symposium.
